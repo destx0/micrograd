@@ -1,2 +1,4 @@
 FOLLOWING ALONG https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&ab_channel=AndrejKarpathy
 30:00 DONE
+
+power not implemented correctly
